@@ -1,0 +1,5 @@
+bin/*
+.clangd/*
+obj/*
+compile_commands.json
+*.qbs
